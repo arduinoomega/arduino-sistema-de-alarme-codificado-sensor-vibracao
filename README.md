@@ -5,6 +5,6 @@ Sistemas de segurança estão cada vez mais presentes em nosso cotidiano, são e
 
 <img href="http://portaldoarduino.com.br/wp-content/uploads/2018/10/SENSOR-DE-VIBRACAO_bb-1024x967.jpg" />
 
-## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/sistema-de-alarme-codificado-com-sensor-de-vibracao/" target="_blank">Portal do Arduino - Identificacão de cores com Arduino e sensor TCS230</a>
+## Veja o tutorial completo em <a href="http://portaldoarduino.com.br/sistema-de-alarme-codificado-com-sensor-de-vibracao/" target="_blank">Portal do Arduino - Sistema de Alarme Codificado com Arduino e Sensor de  Vibração SW-420</a>
 
 ### Tutorial por Pedro Pereira do <a href="https://www.instagram.com/laboratorio_dosfundos/">Laboratório dos Fundos</a>.
